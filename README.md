@@ -3,6 +3,6 @@ Este repositório englobará os desafios de projeto da plataforma Dio - no intui
 
 ##Links Úteis
 
-(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-[Linkedin Profile]
+
+###[Linkedin Profile]
 (https://www.linkedin.com/in/anacpessan/)
