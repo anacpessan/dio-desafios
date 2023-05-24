@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wikipedia</title>
+    <link rel="stylesheet" href="arquivo.css">
+    
+</head>
+<main>
+    
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Início</a>
+            </li>
+
+            <li class="dropdown">
+                <a href="desenvolvimento.html">Desenvolvimento</a>
+                <div class="dropdown-menu">
+                    <a href="#">Conceito</a>
+                    <a href="#">Roteiro</a>
+                    <a href="#">História</a>
+                    <a href="#">Filmagens</a>
+                    <a href="#">Finalização</a>
+                    <a href="#">Exatidão Científica</a>
+                </div>
+
+            </li>
+            <li class="dropdown">
+                <a href="#">Elenco e Personagens</a>
+                    <div class="dropdown-menu">
+                        <a href="#">Elenco</a>
+                        <a href="#">Elenco Secundário</a>
+                        <a href="#">Personagens Principais</a>
+                        <a href="#">Personagens Recorentes</a>
+                        <a href="#">Participações Especiais</a>
+                    </div>
+            </li>
+            <li class="dropdown">
+                <a href="#">Temas e Símbolos</a>
+                <div class="dropdown-menu">
+                    <a href="#">Consequências Morais</a>
+                    <a href="#">Devoção à família</a>
+                </div>
+            </li>
+            <li class="dropdown">
+                <a href="#">Sinopse</a>
+                <div class="dropdown-menu">
+                    <a href="#">Temporada 1</a>
+                    <a href="#">Temporada 2</a>
+                    <a href="#">Temporada 3</a>
+                    <a href="#">Temporada 4</a>
+                    <a href="#">Temporada 5</a>
+                </div>
+            </li>
+            <li>
+                <a href="#">Distribuição Internacional</a>
+            </li>
+            <li>
+                <a href="#">Prêmios e Nomeações</a>
+            </li>
+            <li>
+                <a href="#">Créditos</a>
+            </li>
+            <li>
+                <a href="#">Referências</a>
+            </li>
+        </ul>
+
+    </nav>
+
+    <div class="search-box">
+        <input type="text" class="search-text" placerholder="Pesquise">
+        <a href="#">
+            <a href="#" class="search-button"></a>
+            <img src="lupa1.svg" alt="Lupa" height="35" width="35">
+
+
+        </a>
+
+    </div>
+
+    <div type="text" class="titulo">
+        <p>Wikipedia</p>
+    </div>
+
+    <section class="footer">
+        <footer>
+            <li>
+                <a href="#">Política de Privacidade</a>
+            </li>
+            <li>
+                <a href="#">Sobre a Wikipedia</a>
+            </li>
+            <li>
+                <a href="#">Avisos Gerais</a>   
+            </li>
+            <li>   
+                <a href="#">Visão Móvel</a>
+            </li>
+            <li>
+                <a href="#">Programadores</a>
+            </li>
+            <li>
+                <a href="#">Estátisticas</a>
+            </li>
+            <li>
+                <a href="#">Declaração sobre Cookies</a>
+            </li>
+        </footer>
+    </section>
+
+</main>
+</html>
